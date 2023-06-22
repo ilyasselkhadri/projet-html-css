@@ -1,0 +1,165 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+#T1
+{
+    float:left;
+    font-size: 33px;
+    border-radius: 100%;
+    background:rgb(175, 163, 163);
+    color:white;
+    margin-bottom: 45px;
+}
+nav{
+    height:60px;
+    background-color: black;
+    padding-top: 2.8rem;
+    padding-left: var(--pading);
+    padding-right: var(--pading);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 0.8rem 1.5rem;
+    margin-bottom: 45px;
+}
+nav ul li a{
+    color: var(--ligthcolor);
+    text-decoration: none;
+    text-transform: capitalize;
+    color: white;
+    font-size: 25px;
+}
+nav ul li a:hover{
+    color: red;
+    transition: 0.5s;
+}
+span{
+    color:red;
+}
+.bnt{
+    background-color:red;
+    color:var(--ligthcolor);
+    font-weight: bold;
+    padding: 0.75rem 1.80rem;
+    border-radius:30px;
+    border:2px solid transparent;
+    margin-bottom: 40px;
+    font-size: 20px;
+    color: aliceblue;
+    transition: 0.5s;
+}
+.bnt:hover{
+    background-color: transparent;
+    border:2px solid ;
+    border-color: red;
+} 
+a{
+    text-decoration: none;
+    color: white;
+}
+.content{
+    height:600px;
+    background-image: url("arriere-plan-de-la-bibliotheque-de-coimbra-kg2n59.jpg");
+    background-attachment: fixed;
+    text-align: center;
+}
+.C1{
+    padding: 150px;
+}
+.Tcontent{
+    color: red;
+    font-size:70px;
+}
+body{
+    background: beige;
+}
+.T2{
+    text-align: center;
+    font-size: 30px;
+    color:black;
+    margin-top: 30px;
+}
+.C2{
+    width: 65%;
+    float: left;
+    padding: 10px;
+    margin-top: 30px;
+    font-size:auto;
+    font-style: italic;
+    font-weight: bold;
+}
+.secimg{
+    width:30%;
+    float:right;
+    margin-top: 39px;
+
+}
+.img{
+    height: 600px;
+    width: 388px;
+}
+.d{
+    width:105%;
+    height: 200px;
+    float: left;
+    background-color: rgb(160, 155, 155);
+}
+h2{
+
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.d:hover{
+    background-color:white;
+}
+.li{
+    background-color: black;
+}
+p{
+    font-weight: bolder;
+    font-family: capitalize;
+    margin:10px;
+}
+.t3{
+    color: blue;
+}
+.T4{
+    margin-top: 680px;
+    margin-bottom: 30px;
+    text-align: center;
+    color:black;
+}
+footer{
+    background-color:darkorange;
+    color: white;
+    height: 60px;
+    text-align: center;
+}
+.NLT{
+    font-weight: bold;
+    font-size: 23px;
+}
+#fiel{
+    margin-left: 2px;
+    width: 40%;
+}
+
+.form1{
+    width: 41%;
+    float: left;
+}
+.luffy{
+    color:black;
+}
+.naruto{
+
+    height: 130px;
+}
+
+ 
